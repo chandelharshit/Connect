@@ -1,0 +1,14 @@
+.about-card {
+    text-align: center;
+  }
+  
+  .pdf-container {
+    width: 100%;
+    height: 500px;
+    margin-top: 20px;
+  }
+  
+  iframe {
+    border: none;
+  }
+  

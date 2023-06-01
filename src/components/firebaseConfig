@@ -1,0 +1,12 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyA-ETcLQOGkngNbYCPEd_2O18oZEoBs6ok",
+    authDomain: "connects-13c4b.firebaseapp.com",
+    projectId: "connects-13c4b",
+    storageBucket: "connects-13c4b.appspot.com",
+    messagingSenderId: "769623078655",
+    appId: "1:769623078655:web:075b41aa333a56ad217eca",
+    measurementId: "G-E5J83CFP1R"
+  };
+  
+  export default firebaseConfig;
+  

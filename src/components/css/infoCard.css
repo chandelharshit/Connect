@@ -1,0 +1,50 @@
+
+.info-card {
+    text-align: center;
+    height: 450px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #a20f0f;
+    border: 1px solid #090909;
+    border-radius: 4px;
+  }
+  
+  .info-table {
+    width: 90%;
+    margin: 40px;
+    border-collapse: collapse;
+  }
+  .info-table tr {
+    margin: 0px;
+  }
+  .info-table tbody{
+    padding: 0px;
+  }
+  .photo-column {
+    width: 3%;
+  }
+  
+  
+  .photo {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  background-size: cover;
+  background-position: center;
+  }
+  
+  .text-column {
+    font-size: 20px;
+    width: 35%;
+  }
+/*   
+  .text-column:first-child {
+    text-align: left;
+  }
+  
+  .text-column:last-child {
+    text-align: right;
+  } */
+  
